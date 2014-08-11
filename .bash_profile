@@ -3,6 +3,7 @@ alias hosts="vim /etc/hosts"
 alias home="cd ~/"
 alias profile="vim ~/.bash_profile"
 alias sprofile="source ~/.bash_profile"
+alias work="cd ~/Workspace"
 
 #colors
 export LSCOLORS='DxGxcxdxCxegedabagacad'
