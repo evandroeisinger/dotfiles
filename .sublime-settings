@@ -5,6 +5,7 @@
   "tab_size": 2,
   "show_minimap": false, 
   "translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
   "tree_animation_enabled": false,
   "animation_enabled": false,
   "bold_folder_labels": true,
